@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  background-color: #efefef;
+  font-family: "Fredoka One", sans-serif;
+}
+h1{
+text-align: center;
+font-size: 2.5rem;
+}
